@@ -1,0 +1,36 @@
+.board-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgba(0, 255, 238, 0.861);
+  
+}
+
+.board-container{
+  margin-left: 360px;
+  
+  width: 40%;
+  margin-top: 50px;
+}
+
+.ab{
+  text-align: center;
+  color: black;
+   font-size: 1.5em;
+}
+
+.btn{
+  background-color: yellow;
+ font-size: 3em;
+ border-radius: 50px;
+
+}
+
+.btn:hover{
+  color:yellow;
+  background-color: black;
+  cursor: pointer;
+}
+.cd{
+  font-size: 1em
+}
