@@ -10,7 +10,7 @@ const Square = (props) =>{
             display: "flex",
             justifyContent: "center",
             alignItems: "center",
-            
+            fontsize:"100px",
             
         }}
         className="square">
